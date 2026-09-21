@@ -1,0 +1,800 @@
+2026-09-19 17:23:35,911:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-09-19 17:23:35,911:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-09-19 17:23:35,911:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-09-19 17:23:35,911:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-09-19 17:33:32,559:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,560:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,625:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,625:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,692:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,692:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,757:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,757:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,790:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,790:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,812:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,812:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,833:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,834:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,856:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,856:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,881:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,881:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,908:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,908:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,934:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,934:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:32,963:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:32,963:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,002:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,002:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,084:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,084:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,179:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,180:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,275:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,275:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,324:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,324:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,354:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,354:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,382:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,382:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,413:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,414:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,446:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,446:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,479:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,479:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,516:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,516:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,552:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,552:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,591:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,591:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,631:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,632:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,674:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,674:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,719:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,719:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,767:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,767:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,815:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,815:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,867:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,867:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,918:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,918:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:33:33,974:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:33:33,974:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,171:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,171:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,192:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,192:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,215:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,216:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,267:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,267:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,296:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,296:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,323:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,323:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,350:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,350:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,379:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,379:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,408:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,409:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,439:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,439:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,472:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,472:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,503:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,503:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,537:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,537:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,575:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,575:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,610:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,611:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,649:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,649:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,686:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,687:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,728:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,728:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,768:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,768:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,811:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,811:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,853:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,853:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,896:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,896:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,940:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,940:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:46,987:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:46,987:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,034:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,034:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,083:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,083:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,185:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,185:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,298:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,298:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,360:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,360:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-19 17:42:47,422:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-19 17:42:47,422:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,091:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,092:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,111:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,111:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,150:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,150:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,171:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,171:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,193:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,193:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,217:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,217:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,241:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,268:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,268:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,295:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,295:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,324:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,324:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,351:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,351:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,378:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,378:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,406:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,406:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,434:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,434:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,463:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,463:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,494:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,494:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,525:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,525:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,556:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,557:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,589:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,589:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,624:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,624:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,660:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,660:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,698:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,699:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,735:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,735:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,772:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,772:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,813:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,813:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,851:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,851:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,890:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,890:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,931:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,931:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:05,971:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:05,971:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:06,012:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:06,012:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:06,056:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:06,056:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 10:52:06,099:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 10:52:06,099:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,083:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,083:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,104:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,105:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,126:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,126:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,151:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,151:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,176:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,176:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,202:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,202:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,228:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,228:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,255:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,255:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,285:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,285:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,313:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,313:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,344:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,344:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,375:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,375:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,409:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,409:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,441:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,442:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,503:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,503:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,570:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,570:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,613:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,613:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,662:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,662:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,759:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,760:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,862:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,862:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,914:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,915:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:18,970:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:18,970:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,023:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,023:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,076:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,077:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,130:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,190:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,190:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,252:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,252:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,313:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,313:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,375:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,375:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,469:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,469:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+2026-09-21 11:00:19,554:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2897: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+
+2026-09-21 11:00:19,554:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/numpy/lib/function_base.py:2898: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
