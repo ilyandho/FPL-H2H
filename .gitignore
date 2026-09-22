@@ -7,11 +7,15 @@ models_by_round_gk
 data/rolled_data_24_25.csv
 data/rolled_data_23_24.csv
 
+beta estimators/estimates/league_models_gk
+beta estimators/estimates/league_models_def
+beta estimators/estimates/league_models_mid
+beta estimators/estimates/league_models_fwd
 
-# beta estimators/estimates/league_models_gk
-# beta estimators/estimates/league_models_def
-# beta estimators/estimates/league_models_mid
-# beta estimators/estimates/league_models_fwd
+beta estimators/league betas/league_models_gk
+beta estimators/league betas/league_models_def
+beta estimators/league betas/league_models_mid
+beta estimators/league betas/league_models_fwd
 
 predictors/models_by_round_gk_pts
 predictors/models_by_round_def_pts
