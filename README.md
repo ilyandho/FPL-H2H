@@ -152,20 +152,16 @@ This project depends on Python data science tooling, including packages such as:
 - joblib
 - xgboost / lightgbm (where available)
 
-The exact environment is not locked in a dedicated `requirements.txt`, so the notebooks and scripts likely assume a manually prepared analysis environment.
-
 ---
 
-## Typical usage
-
-Because this is primarily a research workspace, usage is usually notebook-driven:
+## Direction for use:
 
 1. Open the appropriate notebook in `predictors/`, `beta estimators/`, or `optimizer/`
 2. Load the relevant CSV or model artifact
 3. Run the notebook cells to generate fresh predictions or optimization results
 4. Inspect saved outputs in `hist/`, `estimates/`, or the optimizer folder
 
-A practical workflow is:
+### Workflow is:
 
 - use the predictor notebooks to generate point estimates
 - use beta estimator notebooks to create selection/league influence models
